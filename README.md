@@ -1,6 +1,6 @@
-- 👋 I’m @gitgirl0100
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning the basics 
+- Hello World
+- Computer Science student
+- I can never learn enough 
 
 <!---
 gitgirl0100/gitgirl0100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
