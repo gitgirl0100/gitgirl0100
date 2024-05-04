@@ -1,5 +1,5 @@
 - Hello World
-- Computer Science student
+- Im a Computer Science student
 - I can never learn enough 
 
 <!---
